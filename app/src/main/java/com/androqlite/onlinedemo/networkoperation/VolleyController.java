@@ -1,4 +1,4 @@
-package com.com.emran.onlinedemo.networkoperation;
+package com.androqlite.onlinedemo.networkoperation;
 
 import android.content.Context;
 import android.util.Log;

@@ -1,4 +1,4 @@
-package com.com.emran.onlinedemo.datamodels;
+package com.androqlite.onlinedemo.datamodels;
 
 /**
  * Created by emran on 4/21/17.

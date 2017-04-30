@@ -1,4 +1,4 @@
-package com.com.emran.onlinedemo.utility;
+package com.androqlite.onlinedemo.utility;
 
 import android.util.Log;
 

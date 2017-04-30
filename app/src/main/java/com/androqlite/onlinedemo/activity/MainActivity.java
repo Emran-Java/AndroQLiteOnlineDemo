@@ -1,4 +1,4 @@
-package com.com.emran.onlinedemo.activity;
+package com.androqlite.onlinedemo.activity;
 
 import android.app.Activity;
 import android.content.Context;
@@ -16,12 +16,12 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.android.volley.Request;
-import com.com.emran.onlinedemo.R;
-import com.com.emran.onlinedemo.adapter.MessageAdapter;
-import com.com.emran.onlinedemo.datamodels.MessageDataModel;
-import com.com.emran.onlinedemo.networkoperation.VolleyController;
-import com.com.emran.onlinedemo.utility.DataParser;
-import com.com.emran.onlinedemo.utility.NetworkUtility;
+import com.androqlite.onlinedemo.R;
+import com.androqlite.onlinedemo.adapter.MessageAdapter;
+import com.androqlite.onlinedemo.datamodels.MessageDataModel;
+import com.androqlite.onlinedemo.networkoperation.VolleyController;
+import com.androqlite.onlinedemo.utility.DataParser;
+import com.androqlite.onlinedemo.utility.NetworkUtility;
 
 import java.util.ArrayList;
 

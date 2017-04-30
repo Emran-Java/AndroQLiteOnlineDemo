@@ -1,4 +1,4 @@
-package com.com.emran.onlinedemo.adapter;
+package com.androqlite.onlinedemo.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.com.emran.onlinedemo.R;
-import com.com.emran.onlinedemo.datamodels.MessageDataModel;
+import com.androqlite.onlinedemo.R;
+import com.androqlite.onlinedemo.datamodels.MessageDataModel;
 
 import java.util.ArrayList;
 
